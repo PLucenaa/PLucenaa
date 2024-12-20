@@ -1,12 +1,21 @@
 # PLucenaa
 
 ## About Me
-I hold a degree in Systems Analysis and Development from IFRR, with experience in mobile app development 📱 and leadership 🏅. In 2021, I designed the Brood app, which won 3rd place 🥉 in the INOVA SENAI STATE competition. During my studies, I learned Java, React Native, SQL (PostgreSQL), and used Figma for prototyping 🎨.
+Pedro Henrique Vale de Lucena Brasil
+22 years old | Boa Vista, Roraima | Contact: (95) 99135-4415 | Email: pedro12brasil@gmail.com  
+Github: [@PLucenaa](https://github.com/PLucenaa)
 
-I studied Kotlin and Java through DIO and, as vice-president of the academic association, I developed leadership and financial management skills 💼. I also participated in an ICT residency, where I created dashboards for accident analysis 📊 and developed a version of Brood using FlutterFlow and Firebase, based on local business requirements.
+I am a developer with experience in mobile and currently focused on **Data Science**, with an emphasis on **AI applied to healthcare**. Throughout my journey, I have developed relevant projects such as **Celestial** (agricultural pest diagnosis) and **Brood** (marketplace for pet shops), and I have earned awards like 3rd place in the **Hackathon EXPOFERR AGROTECH**.
 
-I am continuously seeking to enhance my technical and managerial skills to contribute to innovative projects 🚀.
+With a degree in **Systems Analysis and Development** and qualifications in **Flutter**, **Dart**, **Artificial Intelligence**, and **Data Analysis**, my goal is to use data to create innovative solutions, particularly in the healthcare sector.
 
+### **Experience and Qualifications**
+- **Technologist in Systems Analysis and Development (IFRR)**  
+- **Courses in AI applied to healthcare and Data Science to Industry 4.0 (UFRR)**  
+- **Projects**: **Celestial**, **Brood**, **Japay**  
+- **Awards**: 3rd place at **Inova Senai 2021** and **Hackathon EXPOFERR**
+
+I am looking for challenges that will allow me to apply my data knowledge to transform healthcare through technology.
 ## Skills
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PLucenaa&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FF)
