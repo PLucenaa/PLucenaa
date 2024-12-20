@@ -2,8 +2,7 @@
 
 ## About Me
 Pedro Henrique Vale de Lucena Brasil
-22 years old | Boa Vista, Roraima | Contact: (95) 99135-4415 | Email: pedro12brasil@gmail.com  
-Github: [@PLucenaa](https://github.com/PLucenaa)
+22 years old | Boa Vista, Roraima | Contact: +55(95)99135-4415 | Email: pedro12brasil@gmail.com
 
 I am a developer with experience in mobile and currently focused on **Data Science**, with an emphasis on **AI applied to healthcare**. Throughout my journey, I have developed relevant projects such as **Celestial** (agricultural pest diagnosis) and **Brood** (marketplace for pet shops), and I have earned awards like 3rd place in the **Hackathon EXPOFERR AGROTECH**.
 
